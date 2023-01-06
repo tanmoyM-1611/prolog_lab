@@ -8,3 +8,4 @@ name(samrat,gpa(3.70,university(comilla_university))).
 name(majhar,gpa(3.63,university(comilla_university))).
 name(zilani,gpa(3.69,university(comilla_university))).
 name(mamun,gpa(3.23,university(comilla_university))).
+//demo result
